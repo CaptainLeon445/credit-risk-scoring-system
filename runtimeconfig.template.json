@@ -1,0 +1,9 @@
+{
+  "configProperties": {
+    "System.GC.Server": true,
+    "System.GC.Concurrent": true,
+    "System.GC.HeapHardLimit": 1073741824,
+    "System.GC.HighMemoryPercent": 75,
+    "System.GC.ConserveMemory": 0
+  }
+}

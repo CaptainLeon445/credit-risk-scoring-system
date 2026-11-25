@@ -1,0 +1,15 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+*.user
+*.suo
+*.log
+publish/
+.DS_Store
